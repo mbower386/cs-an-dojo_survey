@@ -21,3 +21,4 @@
 /Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-dojo_survey/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.dll
 /Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-dojo_survey/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.pdb
 /Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-dojo_survey/DojoSurvey/obj/Debug/netcoreapp2.1/DojoSurvey.csproj.CopyComplete
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-an-dojo_survey/DojoSurvey/obj/Debug/netcoreapp2.1/Razor/Views/DojoSurvey/Survey.g.cshtml.cs
