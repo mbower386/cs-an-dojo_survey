@@ -1,0 +1,11 @@
+.survey-form {
+    width: 40%;
+    height: 50%;
+    border: 2px solid black;
+    margin: 2% auto;
+    padding: 2%;
+}
+
+.username {
+    float: right;
+}
